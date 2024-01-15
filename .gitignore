@@ -21,6 +21,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.tox/
 
 ## pywikibot stuff
 apicache-py3/
